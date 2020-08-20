@@ -116,8 +116,7 @@ namespace HYS
                         var input = Console.ReadLine();
                         while (uint.TryParse(input, out classId) == false || IsInCludeItem(itemType, classId) == false)
                         {
-                            Console.WriteLine("한글 또는 없는 ID를 입력하셨습니다.");
-                            Console.WriteLine("한글 또는 없는 ID를 입력하셨습니다.");
+                            Console.WriteLine("문자 또는 없는 ID를 입력하셨습니다.");
                             input = Console.ReadLine();
                         }
 

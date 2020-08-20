@@ -4,7 +4,7 @@ namespace HYS.PlayerData
 {
     public sealed class PlayerManager : Singleton<PlayerManager>
     {
-        //TODO: 유저 정보
+        //TODO: 유저 정보 더미
         public uint ProfileIconId;
         public uint UserId;
         public string Nickname;
