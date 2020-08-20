@@ -1,0 +1,13 @@
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\bin\Debug\netcoreapp3.1\HYS_SampleCode.exe
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\bin\Debug\netcoreapp3.1\HYS_SampleCode.deps.json
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\bin\Debug\netcoreapp3.1\HYS_SampleCode.runtimeconfig.json
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\bin\Debug\netcoreapp3.1\HYS_SampleCode.runtimeconfig.dev.json
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\bin\Debug\netcoreapp3.1\HYS_SampleCode.dll
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\bin\Debug\netcoreapp3.1\HYS_SampleCode.pdb
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\obj\Debug\netcoreapp3.1\HYS_SampleCode.csprojAssemblyReference.cache
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\obj\Debug\netcoreapp3.1\HYS_SampleCode.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\obj\Debug\netcoreapp3.1\HYS_SampleCode.AssemblyInfoInputs.cache
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\obj\Debug\netcoreapp3.1\HYS_SampleCode.AssemblyInfo.cs
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\obj\Debug\netcoreapp3.1\HYS_SampleCode.dll
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\obj\Debug\netcoreapp3.1\HYS_SampleCode.pdb
+D:\Program Files (x86)\HYS_SampleCode\HYS_SampleCode\obj\Debug\netcoreapp3.1\HYS_SampleCode.genruntimeconfig.cache
